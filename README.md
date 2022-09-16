@@ -1,2 +1,6 @@
 # Jovian-Webscraping-Project
-Scraping Data Science and related Domains Jobs using Beautiful Soup library, posted in INDIA's one of the biggest and popular Job Hunting Website "INDEED" and converting the downloaded data into .csv file.
+Downloaded Web Content from INDEED using Python Library “Requests”.
+Parsed HTML source code into Doc Object using Beautiful Soup. 
+Extract Data Science & Related Job Posting using custom build functions with the details - Job-Role, Location,Salary etc.
+Convert the scraped data into .CSV format for future analysis.
+
